@@ -1,0 +1,6 @@
+缓冲流：一次从硬盘中读取多个字节/字符到缓冲区（数组）中，节约时间
+
+字节缓冲输入流：BufferedInputStream(new FileInputStream)
+字节缓冲输出流BufferedOutputStream
+字符缓冲输入流BufferedReader
+字符缓冲输出流BufferedWriter

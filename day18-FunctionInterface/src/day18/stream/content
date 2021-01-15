@@ -1,0 +1,9 @@
+Stream流思想：区别于IO Stream流
+作用:对数组和集合进行过滤筛选
+list=list.stream().filter(过滤方式)
+流：相当于流水线
+方法：
+filter、map、skip、count、forEach...
+
+延迟方法：返回值还是原来的类型
+终止方法：无返回值

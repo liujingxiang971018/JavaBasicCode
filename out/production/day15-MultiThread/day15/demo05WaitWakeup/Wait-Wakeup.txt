@@ -1,0 +1,9 @@
+进程间通信：（生产者-消费者）
+等待：wait();
+唤醒：notify();
+
+几种状态：
+运行态RUNNING：
+阻塞态BLOCKED：
+计时等待：sleep()
+无限等待：wait()
